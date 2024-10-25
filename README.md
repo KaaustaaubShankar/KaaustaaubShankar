@@ -31,4 +31,4 @@ I'm a computer science student at the University of Cincinnati, pursuing a dual 
 
 ---
 
-![Kaaustaaub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaaustaaub-shankar&show_icons=true&theme=radical)
+![Kaaustaaub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaaustaaubShankar&show_icons=true&theme=radical)
