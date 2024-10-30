@@ -1,4 +1,4 @@
-## Hi, I'm Kaaustaaub Shankar 🤖
+## Hi, I'm Kaaustaaub Shankar 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -7,28 +7,34 @@
   </a>
 </p>
 
-I'm a Computer Science major and AI Researcher at the University of Cincinnati, currently pursuing a dual degree through the ACCEND program. I love working on AI research, tackling hackathons, and building innovative projects that push the boundaries of technology.
+**Computer Science Major & AI Researcher | University of Cincinnati**  
+Dual degree in Computer Science through the ACCEND program, passionate about AI research, hackathons, and cutting-edge projects.
 
-## Experience
+### Skills & Tech Stack
 
 - **Languages:** Python | Java | C# | C++
 - **Frameworks & Libraries:** LangChain | Flask | React | Unity | PyGame | Pandas | NumPy | Matplotlib
-- **Cloud & DevOps:** Microsoft Azure | Google Cloud Platform | Docker
-- **Databases:** MySQL | PostgreSQL | Neo4j (Cypher)
+- **Cloud & DevOps:** Azure | GCP | Docker
+- **Databases:** MySQL | PostgreSQL | Neo4j
 - **AI & ML Tools:** BERT | Llama | OpenAI | Genetic Algorithms | Fuzzy Systems
 
-## Hackathons & Projects
-- 🏆 **Terminally Addicted** (HackOhio 2024): Built  A project that brings everything from Spotify 🎧 to GitHub 🐙, GPT bots 🤖, and Todoist 📝 into your terminal and VIM—no frills, just pure terminal life.
-- 🥇 **WhiteBox** (Future of Data Hackathon 2024): Developed a Hybrid RAG tool to enhance LLM credibility, combining structured data with LLM outputs.
-- 🏆 **Memento** (RevolutionUC 2024): Built an assistant for Alzheimer’s patients, winning multiple awards for social impact and clinical applications.
-- 🥇 **Buycott** (MakeUC 2023): Led a team to build an app that empowers users to voice opinions on social issues using AI-driven sentiment analysis.
-- 🥇 **Kuka 7 Robot Visualization** (RevolutionUC 2023): Designed a robotic arm control and visualization system in Unity.
+### Currently Working On
 
-## Interests
+- **AI for Robotic Surgery:** Researching AI applications to enhance precision and efficiency in robotic-assisted surgeries.
+- **Handmade Heuristics:** A personal project exploring AI development using only NumPy to build foundational heuristics and algorithms.
 
-- 🌱 Currently exploring reinforcement learning for robotics and advanced NLP techniques.
+### Hackathon Highlights
 
-## Get in Touch
+- **Terminally Addicted** (HackOhio 2024): Integrated Spotify, GitHub, GPT, and Todoist into a terminal experience.
+- **WhiteBox** (Future of Data Hackathon 2024): Hybrid RAG tool to improve LLM credibility with structured data.
+- **Memento** (RevolutionUC 2024): Assistant for Alzheimer’s patients, recognized for social impact.
+- **Buycott** (MakeUC 2023): Social issue app using AI-driven sentiment analysis.
+- **Kuka 7 Robot Visualization** (RevolutionUC 2023): Robotic arm visualization in Unity.
 
-- [LinkedIn](https://www.linkedin.com/in/kaaustaaub-shankar/)
+### Interests
+
+- Exploring reinforcement learning for robotics and advanced NLP techniques.
+
+**Get in Touch:**  
+- [LinkedIn](https://www.linkedin.com/in/kaaustaaub-shankar/)  
 - 📧 Email: shankaks@mail.uc.edu
