@@ -33,7 +33,7 @@ Dual degree in Computer Science through the ACCEND program, passionate about AI 
 
 ### Interests
 
-- Exploring reinforcement learning for robotics and advanced NLP techniques.
+- Fuzzy and RL
 
 **Get in Touch:**  
 - [LinkedIn](https://www.linkedin.com/in/kaaustaaub-shankar/)  
